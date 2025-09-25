@@ -41,7 +41,7 @@ Desenvolver um **aplicativo mobile** inspirado no site original, com foco em:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/SeuUsuario/VirTEAI-App.git
+   git clone https://github.com/LyviaFernandes/VirTEAI-Mobile
    ```
 
 2. Acesse a pasta do projeto:
